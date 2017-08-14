@@ -22,7 +22,7 @@ test(({same, end}) => {
       gamma: {
         alpha: "1",
         beta: "2",
-      }
+      },
     }
   )
 
@@ -34,7 +34,7 @@ test(({same, end}) => {
     mergeDeepLeft({alpha: {alpha: "1"}})({beta: {beta: "2"}}),
     {
       alpha: {alpha: "1"},
-      beta: {beta: "2"}
+      beta: {beta: "2"},
     }
   )
 
@@ -67,7 +67,7 @@ test(({same, end}) => {
     mergeDeepLeft(["a"])(["a"]),
     [
       "a",
-      "a"
+      "a",
     ]
   )
 
@@ -81,7 +81,7 @@ test(({same, end}) => {
       alpha: [
         "a",
         "a",
-      ]
+      ],
     }
   )
 
