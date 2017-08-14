@@ -49,7 +49,7 @@
   "dependencies": {
     "@unction/isarray": "1.0.5",
     "@unction/isobject": "1.0.5",
-    "@unction/mergewith": "3.0.4",
-    "ramda": "0.24.1"
+    "@unction/mergeleft": "1.0.4",
+    "@unction/mergewith": "3.0.4"
   }
 }
