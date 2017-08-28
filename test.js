@@ -1,7 +1,7 @@
 /* eslint-disable flowtype/require-parameter-type, flowtype/require-return-type */
 import {test} from "tap"
 
-import mergeDeepLeft from "./source"
+import mergeDeepLeft from "./"
 
 test(({same, end}) => {
   same(
