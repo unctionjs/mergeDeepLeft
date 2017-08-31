@@ -51,7 +51,7 @@
     "tap": "10.3.4"
   },
   "dependencies": {
-    "@unction/isarray": "2.0.0",
+    "@unction/isarray": "2.1.0",
     "@unction/isobject": "2.0.0",
     "@unction/mergeleft": "3.0.0",
     "@unction/mergewith": "4.0.0"
