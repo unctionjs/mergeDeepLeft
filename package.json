@@ -52,8 +52,8 @@
   "dependencies": {
     "@unction/isarray": "2.8.0",
     "@unction/isobject": "2.8.0",
-    "@unction/mergeleft": "3.25.0",
-    "@unction/mergewith": "4.26.0"
+    "@unction/mergeleft": "3.26.0",
+    "@unction/mergewith": "4.27.0"
   },
   "nyc": {
     "require": [
