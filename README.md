@@ -6,7 +6,7 @@
 
 > FunctorType => FunctorType => FunctorType
 
-Recursively merges two objects/arrays. Merges objects with `merge` and arras with concat. Prefers left. THAT IS ALL.
+Recursively merges two objects/arrays. Merges objects with `merge` and arrays with concat. Prefers left. THAT IS ALL.
 
 ``` javascript
 const left = {
