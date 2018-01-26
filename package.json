@@ -52,10 +52,10 @@
     "tap": "11.0.0"
   },
   "dependencies": {
-    "@unction/isarray": "5.0.0",
-    "@unction/isobject": "5.0.0",
-    "@unction/mergeleft": "5.0.0",
-    "@unction/mergewith": "9.0.0"
+    "@unction/isarray": "5.1.0",
+    "@unction/isobject": "5.1.0",
+    "@unction/mergeleft": "6.0.0",
+    "@unction/mergewith": "12.0.0"
   },
   "nyc": {
     "require": [
