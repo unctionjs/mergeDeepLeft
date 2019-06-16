@@ -54,8 +54,7 @@
     "@unction/isarray": "5.6.0",
     "@unction/isobject": "6.5.0",
     "@unction/mergeleft": "7.5.0",
-    "@unction/mergewith": "13.5.0",
-    "core-js": "3.0.1"
+    "@unction/mergewith": "13.5.0"
   },
   "nyc": {
     "require": [
