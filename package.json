@@ -53,10 +53,10 @@
     "typescript": "3.5.1"
   },
   "dependencies": {
-    "@unction/isarray": "5.7.0",
-    "@unction/isobject": "6.6.0",
-    "@unction/mergeleft": "7.6.0",
-    "@unction/mergewith": "13.6.0"
+    "@unction/isarray": "5.8.0",
+    "@unction/isobject": "6.7.0",
+    "@unction/mergeleft": "7.7.0",
+    "@unction/mergewith": "13.7.0"
   },
   "files": [
     "index.ts",
