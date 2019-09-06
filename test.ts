@@ -1,5 +1,5 @@
 
-import mergeDeepLeft from "./index.ts";
+import mergeDeepLeft from "./index";
 
 test(() => {
   expect(mergeDeepLeft({alpha: "1"})({beta: "2"})).toEqual({
