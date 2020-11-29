@@ -60,9 +60,9 @@
     "typescript": "^4.1.2"
   },
   "dependencies": {
-    "@unction/isarray": "^5.12.0",
-    "@unction/isobject": "^6.11.0",
-    "@unction/mergeleft": "^7.11.0",
-    "@unction/mergewith": "^13.11.0"
+    "@unction/isarray": "^5.13.0",
+    "@unction/isobject": "^6.12.0",
+    "@unction/mergeleft": "^7.12.0",
+    "@unction/mergewith": "^13.12.0"
   }
 }
