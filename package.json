@@ -69,6 +69,6 @@
     "@unction/isarray": "^5.14.0",
     "@unction/isobject": "^6.13.0",
     "@unction/mergeleft": "^7.13.0",
-    "@unction/mergewith": "^13.13.0"
+    "@unction/mergewith": "^13.14.0"
   }
 }
